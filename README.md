@@ -1,6 +1,7 @@
 📊 Customer Churn Prediction
 
 📌 Project Overview
+
 Customer churn prediction helps businesses identify customers who are likely to discontinue their service, enabling proactive retention strategies. Since retaining customers is more cost-effective than acquiring new ones, predicting churn can significantly improve profitability.
 
 This project builds a machine learning pipeline to predict churn using demographic, behavioral, and transactional data. The final model (XGBoost) achieved 100% recall after addressing class imbalance with SMOTE, making it highly effective for capturing potential churners.
